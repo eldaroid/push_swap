@@ -6,7 +6,7 @@
 #    By: fgracefo <fgracefo@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/07/30 14:55:07 by dmetallo          #+#    #+#              #
-#    Updated: 2020/10/05 19:59:58 by fgracefo         ###   ########.fr        #
+#    Updated: 2020/10/05 20:09:22 by fgracefo         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -22,11 +22,11 @@ SRC_DIR 		= ./src/
 OBJ_DIR 		= ./obj/
 
 SRC_NAME_PS		= commands_utils.c sort.c stack.c stack_push.c valid.c \
- 					commands.c sort_utils.c stack_pop.c utils.c push_swap.c
+ 					commands.c sort_utils.c stack_pop.c utils.c start_push_swap.c
 
 
 SRC_NAME_CHECK	= commands_utils.c sort.c stack.c stack_push.c valid.c \
- 					commands.c sort_utils.c stack_pop.c utils.c checker.c
+ 					commands.c sort_utils.c stack_pop.c utils.c start_checker.c
 
 HEADER 			= $(addprefix $(INC_DIR), $(HEADER_NAME))
 

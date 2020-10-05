@@ -6,14 +6,14 @@
 /*   By: fgracefo <fgracefo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/05 19:47:56 by fgracefo          #+#    #+#             */
-/*   Updated: 2020/10/05 19:47:59 by fgracefo         ###   ########.fr       */
+/*   Updated: 2020/10/05 20:33:15 by fgracefo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef PUSH_SWAP_H
 # define PUSH_SWAP_H
 
-# include "libft.h"
+# include "../libft/includes/libft.h"
 
 # define R "\e[31m"
 # define G "\e[32m"
