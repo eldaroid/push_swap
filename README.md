@@ -1,6 +1,10 @@
 # Push_swap
 
-Проект [Школы 21](https://21-school.ru/), состоящий из 2-ух программ: `checker` и `push_swap`. Главная цель - сортировка массива с помощью 2-ух стеков за наименьшее количество определенных команд. Написан на языке C с использование собственной библиотеки [libft](https://github.com/G4S-LA/libft) с небольшими дополнениями.
+## Обзор проекта
+
+![alt text](https://github.com/eldaroid/pictures/blob/master/get_next_line/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-11-17%20%D0%B2%2014.45.37.png)
+
+*push_swap* - это второй алгоритмический проект [Школы 21](https://21-school.ru/), состоящий из 2-ух программ: `checker` и `push_swap`. Главная цель - сортировка массива с помощью 2-ух стеков за наименьшее количество определенных команд. Написан на языке C с использование собственной библиотеки [libft](https://github.com/G4S-LA/libft) с небольшими дополнениями.
 Подробнее: [push_swap](https://github.com/G4S-LA/Push_swap/blob/master/resources/push_swap.en.pdf)
 
 ### :question: Какие команды можно использовать
